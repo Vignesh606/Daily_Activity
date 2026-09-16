@@ -34,6 +34,5 @@ git commit -m "feat(core): initialize spatial canvas project with schemas and js
 
 
 
-*
-Next Milestone: Day 2
-Objective: Implement Viewport Camera, Pan/Zoom Matrix Math Engine, Client-to-World Coordinate Projection, and RBush 2D R-Tree Frustum Culling. *
+* Next Milestone: Day 2
+Objective: Implement Viewport Camera, Pan/Zoom Matrix Math Engine, Client-to-World Coordinate Projection, and RBush 2D R-Tree Frustum Culling. 
